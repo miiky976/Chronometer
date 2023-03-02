@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Timekeeper</string>
+    <string name="start">Iniciar/Reanudar</string>
+    <string name="pause">Pausar</string>
+    <string name="flag">Vuelta</string>
+    <string name="timeFlag">Vuelta: Tiempo</string>
+    <string name="time">00:00:000</string>
+</resources>
